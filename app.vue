@@ -21,9 +21,3 @@ import FooterForm from './components/FooterForm.vue'
     </footer>
   </div>
 </template>
-
-<style global>
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-</style>
